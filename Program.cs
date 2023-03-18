@@ -68,8 +68,6 @@
 //                            Задача 29:
 //  Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
-
-
 Console.WriteLine("Введите длинну массива ");
 int Dlinna = Convert.ToInt32(Console.ReadLine());
 int[] array= new int [Dlinna];
