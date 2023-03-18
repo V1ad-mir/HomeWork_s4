@@ -1,0 +1,15 @@
+E:\language C#\HomeWork_s4\bin\Debug\net6.0\HomeWork_s4.exe
+E:\language C#\HomeWork_s4\bin\Debug\net6.0\HomeWork_s4.deps.json
+E:\language C#\HomeWork_s4\bin\Debug\net6.0\HomeWork_s4.runtimeconfig.json
+E:\language C#\HomeWork_s4\bin\Debug\net6.0\HomeWork_s4.dll
+E:\language C#\HomeWork_s4\bin\Debug\net6.0\HomeWork_s4.pdb
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.csproj.AssemblyReference.cache
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.GeneratedMSBuildEditorConfig.editorconfig
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.AssemblyInfoInputs.cache
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.AssemblyInfo.cs
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.csproj.CoreCompileInputs.cache
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.dll
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\refint\HomeWork_s4.dll
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.pdb
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\HomeWork_s4.genruntimeconfig.cache
+E:\language C#\HomeWork_s4\obj\Debug\net6.0\ref\HomeWork_s4.dll
